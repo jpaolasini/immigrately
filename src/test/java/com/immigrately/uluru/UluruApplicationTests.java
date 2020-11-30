@@ -8,6 +8,7 @@ class UluruApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// Simply tests if the context loads from the @SpringBootApplication
 	}
 
 }
