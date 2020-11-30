@@ -4,7 +4,7 @@
 var countDownDate = new Date("Jan 7, 2021 12:00:00").getTime();
 
 // Update the count down every 1 second
-var x = setInterval(function() {
+var x = setInterval(function () {
 
     // Get todays date and time
     var now = new Date().getTime();
